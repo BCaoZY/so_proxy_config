@@ -1,2 +1,2 @@
 # so_proxy_config
-I love GFW.
+oh,I love GFW.
