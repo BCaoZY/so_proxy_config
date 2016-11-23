@@ -5,6 +5,8 @@
 
 *.stackoverflow.*
 *.facebook.*
+*.youtube.*
+*.twitter.*
 *.golang.*
 *.googleapis.*
 *.elastic.*
