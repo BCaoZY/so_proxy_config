@@ -15,5 +15,8 @@
 *.google-analytics.*
 *.googleusercontent.*
 *.gerhards.*
+*.garmin.*
+*.tiqcdn.*
+*.qlogo.*
 !*
 
