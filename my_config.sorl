@@ -14,5 +14,6 @@
 *.google.*
 *.google-analytics.*
 *.googleusercontent.*
+*.gerhards.*
 !*
 
