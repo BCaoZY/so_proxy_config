@@ -19,5 +19,6 @@
 *.tiqcdn.*
 *.qlogo.*
 *.godoc.*
+*.tumblr.*
 !*
 
