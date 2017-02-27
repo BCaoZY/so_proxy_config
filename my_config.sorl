@@ -20,5 +20,6 @@
 *.qlogo.*
 *.godoc.*
 *.tumblr.*
+*.sourceforge.*
 !*
 
