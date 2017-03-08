@@ -5,6 +5,7 @@
 
 *.stackoverflow.*
 *.facebook.*
+*.fbcdn.*
 *.youtube.*
 *.twitter.*
 *.golang.*
