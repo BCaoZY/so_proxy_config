@@ -6,6 +6,7 @@
 *.stackoverflow.*
 *.facebook.*
 *.fbcdn.*
+*.instagram.*
 *.youtube.*
 *.twitter.*
 *.golang.*
