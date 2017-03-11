@@ -23,5 +23,6 @@
 *.godoc.*
 *.tumblr.*
 *.sourceforge.*
+*.akamaihd.*
 !*
 
